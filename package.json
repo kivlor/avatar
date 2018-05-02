@@ -1,0 +1,13 @@
+{
+  "name": "avatar",
+  "version": "1.0.0",
+  "description": "the little picture above my name",
+  "main": "gravatar.js",
+  "repository": "git@github.com:kivlor/avatar.git",
+  "author": "Andrew Gallagher <kivlor@gmail.com>",
+  "license": "Unlicense",
+  "private": true,
+  "devDependencies": {
+    "casperjs": "^1.1.4"
+  }
+}
